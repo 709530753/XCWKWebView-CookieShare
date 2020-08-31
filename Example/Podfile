@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XCWKWebView-CookieShare_Example' do
+  pod 'XCWKWebView-CookieShare', :path => '../'
+
+  target 'XCWKWebView-CookieShare_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
