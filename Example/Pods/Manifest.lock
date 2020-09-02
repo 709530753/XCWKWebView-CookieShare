@@ -1,0 +1,16 @@
+PODS:
+  - XCWKWebView-CookieShare (0.1.0)
+
+DEPENDENCIES:
+  - XCWKWebView-CookieShare (from `../`)
+
+EXTERNAL SOURCES:
+  XCWKWebView-CookieShare:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XCWKWebView-CookieShare: 93a183dd8665b5de871b1bc623059486c9975c2a
+
+PODFILE CHECKSUM: 3b4f3798d8dc8c38b39ce884051bdd0971bb2575
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module XCWKWebView_CookieShare {
+  umbrella header "XCWKWebView-CookieShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
